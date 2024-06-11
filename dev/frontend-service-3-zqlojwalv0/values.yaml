@@ -27,7 +27,7 @@ deployment:
     url: turaco-dev-registry.turacocloud.com/dev-turaco-workspace-268/turaco
   image:
     name: frontend-service-3-zqlojwalv0
-    tag: lastest
+    tag: "7111-3975-frontend-service-3-zqlojwalv0-d4673cf"
     secret: regsecret
   container:
     name: frontend-service-3-zqlojwalv0
